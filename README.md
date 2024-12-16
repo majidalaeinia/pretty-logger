@@ -1,6 +1,6 @@
 # Pretty Logger
 
-Developer friendly pretty log for ruby developers.
+Developer friendly pretty log for Ruby on Rails developers.
 
 ### Installation
 Add the following lines to your `Gemfile`.
