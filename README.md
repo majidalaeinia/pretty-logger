@@ -28,4 +28,4 @@ Then you can find your logs on this path: `log/pretty_logger/my_logs.log`
 > The available methods are based on [RFC 5424](https://tools.ietf.org/html/rfc5424).
 
 ### Todo
-[ ] Add tests.
+[] Add tests.
