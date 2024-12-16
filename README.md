@@ -5,7 +5,7 @@ Developer friendly pretty log for Ruby on Rails developers.
 ### Installation
 Add the following lines to your `Gemfile`.
 ```bash
-source 'https://github.com/majidalaeinia/pretty-log.git'
+source 'https://github.com/majidalaeinia/pretty-logger.git'
 gem 'pretty-log'
 ```
 
